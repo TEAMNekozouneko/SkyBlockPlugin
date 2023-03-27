@@ -1,0 +1,8 @@
+name: SkyBlockPlugin
+version: '1.0.2.4'
+main: amedouhu.skyblockplugin.SkyBlockPlugin
+api-version: 1.19
+commands:
+  skyblock:
+    description: SkyBlockを開きます。
+    usage: /skyblock
