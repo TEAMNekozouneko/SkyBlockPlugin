@@ -1,5 +1,9 @@
-SkyBlockPlugin  
-Version:1.0.2.4  
+<h1 align="center">SkyBlock</h1>
 
-SkyBlockPlugin 1.0.2.4 には未修正の問題が含まれるため、使用は推奨しません。まもなく修正を予定しています。
-SkyBlockPlugin 1.0.2.4 contains unfixed issues and is not recommended for use. A fix is planned shortly.
+<p align="center">
+  <img src="https://img.shields.io/badge/language-Java-red.svg">
+  <img src="https://img.shields.io/badge/spigot-1.19.4-R0.1-SNAPSHOT-blue.svg">
+  <img src="https://img.shields.io/badge/license-MIT-yellow.svg">
+  <br>
+  ワンブロック型のスカイブロック。Bukkit系サーバで動作するマインクラフトプラグインです。
+</p>
